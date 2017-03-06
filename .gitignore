@@ -23,9 +23,10 @@ Thumbs.db
 # NPM packages folder.
 node_modules/
 
-# Brunch folder for temporary files.
+# temporary files.
 tmp/
-
-# dist folders
-dist/*
 __gh-pages-tmp__/
+
+# Build directory:
+dist/
+
